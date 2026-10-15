@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|d:\\uni\\creative practice 2\\assignment 3\\creative practice character controllers\\assets\\scripts\\playerinflate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinflate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\assets\\scripts\\playergrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playergrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\assets\\scripts\\groundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\assets\\scripts\\multipletargetcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multipletargetcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\assets\\scripts\\interactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\assets\\scripts\\grabhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8AEE6-7C78-F841-CA99-7E2F12F921B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grabhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerInflate.cs",
+              "DocumentMoniker": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\PlayerInflate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInflate.cs",
+              "ToolTip": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\PlayerInflate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInflate.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:32:01.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerGrab.cs",
+              "DocumentMoniker": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\PlayerGrab.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerGrab.cs",
+              "ToolTip": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\PlayerGrab.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerGrab.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T00:44:27.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interactive.cs",
+              "DocumentMoniker": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\Interactive.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactive.cs",
+              "ToolTip": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\Interactive.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T00:34:59.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultipleTargetCamera.cs",
+              "DocumentMoniker": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\MultipleTargetCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MultipleTargetCamera.cs",
+              "ToolTip": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\MultipleTargetCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MultipleTargetCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T23:57:33.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroundController.cs",
+              "DocumentMoniker": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\GroundController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundController.cs",
+              "ToolTip": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\GroundController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T05:33:42.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T04:02:08.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GrabHitbox.cs",
+              "DocumentMoniker": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\GrabHitbox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GrabHitbox.cs",
+              "ToolTip": "D:\\Uni\\Creative Practice 2\\Assignment 3\\Creative Practice Character Controllers\\Assets\\Scripts\\GrabHitbox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GrabHitbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T01:13:01.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

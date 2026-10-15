@@ -1,0 +1,20 @@
+/[Ll]ibrary/
+/[ there ]Temp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ex]logs/
+/MemoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
